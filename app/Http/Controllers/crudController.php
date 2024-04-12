@@ -13,7 +13,8 @@ class crudController extends Controller
      */
     public function index()
     {
-        //
+        // return 'hoise';
+        return view('index');
     }
 
     /**
